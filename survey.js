@@ -45,7 +45,6 @@ const question = function () {
   } 
 else
 {
-
   rl.close()
 
     setTimeout(() => console.log(`
@@ -56,9 +55,6 @@ else
 }
 }
 question()
-
-
- 
 
     
 
